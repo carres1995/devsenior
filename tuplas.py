@@ -4,3 +4,4 @@
 #print(marcas.count("renault"))
 #print(marcas.index("renault"))
 
+print("hola amigos")
